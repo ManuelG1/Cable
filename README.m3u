@@ -13,3 +13,6 @@ http://ipeteve.com/php/t21220/tp.php?c=1409&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO| HD
 http://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO FAMILY| HD
+http://blackghost.live/play/tlvall-202.php?c=1556&f=.m2u8
