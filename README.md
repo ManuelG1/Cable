@@ -1,1 +1,9 @@
-# Cable
+#EXTM3U
+ 
+#EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
+ 
+https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Discovery ID| HD
+http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
