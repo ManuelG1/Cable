@@ -25,3 +25,6 @@ http://blackghost.live/play/tlvall-202.php?c=1557&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO 2| HD
 http://blackghost.live/play/tlvall-202.php?c=1555&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO| HD
+http://blackghost.live/play/tlvall-202.php?c=229&f=.m2u8
