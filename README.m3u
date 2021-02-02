@@ -31,3 +31,6 @@ http://blackghost.live/play/tlvall-202.php?c=229&f=.m2u8
 
 #EXTINF:-1 tvg-logo="T" group-title="MEXICO", H&H| HD
 http://ipeteve.com/php/t21220/tp.php?c=96&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="T" group-title="MEXICO", DISCOVERY CHANNEL| HD
+http://ipeteve.com/php/t21220/tp.php?c=86&p=3&k=srregio&f=.m3u8
