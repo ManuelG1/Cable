@@ -11,3 +11,5 @@ http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
 #EXTINF:-1 tvg-logo="T" group-title="MEXICO", TUDN M| HD
 http://ipeteve.com/php/t21220/tp.php?c=1409&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO| HD
+http://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
