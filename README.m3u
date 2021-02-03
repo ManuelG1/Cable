@@ -58,8 +58,8 @@ http://blackghost.live/play/tlvall-202.php?c=1486&f=.m2u8
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", H&H| HD
 http://blackghost.live/play/tlvall-202.php?c=199&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", A7| HD
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DEEJAY TV| HD
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DEEJAY TV| HD
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", A7| HD
 http://ipeteve.com/php/t121220/th.php?c=317&p=3&k=srregio&f=.m3u8
