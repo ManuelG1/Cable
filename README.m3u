@@ -1,4 +1,4 @@
-#EXTM3U
+U#EXTM3U
  
 #EXTINF:-1,*LISTA DE MGO | (•̀ᴗ•́)و
 
@@ -48,3 +48,6 @@ http://blackghost.live/play/tlvall-202.php?c=1689&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY SCIENCE| HD
 http://blackghost.live/play/tlvall-202.php?c=1519&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", CARTOON NETWORK| HD
+http://blackghost.live/play/tlvall-202.php?c=1468&f=.m2u8
