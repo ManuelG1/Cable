@@ -4,12 +4,8 @@
  
 https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Discovery ID| HD
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-
-#EXTINF:-1 tvg-logo="T" group-title="MEXICO", TUDN M| HD
-http://ipeteve.com/php/t21220/tp.php?c=1409&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY ID| HD
+http://blackghost.live/play/tlvall-202.php?c=1512&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO| HD
 http://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
@@ -36,4 +32,4 @@ http://ipeteve.com/php/t21220/tp.php?c=96&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/t21220/tp.php?c=86&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELÍCULAS 4K", Rogue| HD
-https://hgt5e3.cfeucdn.com/secip/129414/0dqql6U36p9OFWDLa_8B-w/MjgwNjoxMGE2OmI6YWQ1MTpjNDUzOmQyMDA6ZGFkNDpkYjQw/1612329769/hls-vod-s12/flv/api/files/videos/2020/09/14/16000704894xia1.mp4.m3u8
+https://hgt5e3.cfeucdn.com/secip/129414/0dqql6U36p9OFWDLa_8B-w/MjgwNjoxMGE2OmI6YWQ1MTpjNDUzOmQyMDA6ZGFkNDpkYjQw/1612329769/hls-vod-s12/flv/api/files/videos/2020/09/14/16000704894xia1.mp4
