@@ -36,8 +36,6 @@ http://blackghost.live/play/tlvall-202.php?c=177&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", AXN| HD
 http://136.243.177.1640/AXN/playlist.m3u8
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", ANIMAL PLANET| HD
-http://blackghost.live/play/tlvall-202.php?c=1513&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", FX| HD
 http://blackghost.live/play/tlvall-202.php?c=142&f=.m2u8
