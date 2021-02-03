@@ -39,3 +39,6 @@ http://blackghost.live/play/tlvall-202.php?c=1513&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", FX| HD
 http://blackghost.live/play/tlvall-202.php?c=142&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HISTORY 2| HD
+http://blackghost.live/play/tlvall-202.php?c=1531&f=.m2u8
