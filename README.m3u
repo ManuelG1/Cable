@@ -54,3 +54,6 @@ http://blackghost.live/play/tlvall-202.php?c=1468&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY CHANNEL| HD
 http://blackghost.live/play/tlvall-202.php?c=1486&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", H&H| HD
+http://blackghost.live/play/tlvall-202.php?c=199&f=.m2u8
