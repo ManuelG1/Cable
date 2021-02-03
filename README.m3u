@@ -25,11 +25,5 @@ http://blackghost.live/play/tlvall-202.php?c=1555&f=.m2u8
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO SIGNATURE| HD
 http://blackghost.live/play/tlvall-202.php?c=229&f=.m2u8
 
-#EXTINF:-1 tvg-logo="T" group-title="MEXICO", H&H| HD
-http://ipeteve.com/php/t21220/tp.php?c=96&p=3&k=srregio&f=.m3u8
-
-#EXTINF:-1 tvg-logo="T" group-title="MEXICO", DISCOVERY CHANNEL| HD
-http://ipeteve.com/php/t21220/tp.php?c=86&p=3&k=srregio&f=.m3u8
-
-#EXTINF:-1 tvg-logo="H" group-title="PELÍCULAS 4K", Rogue| HD
-https://hgt5e3.cfeucdn.com/secip/129414/0dqql6U36p9OFWDLa_8B-w/MjgwNjoxMGE2OmI6YWQ1MTpjNDUzOmQyMDA6ZGFkNDpkYjQw/1612329769/hls-vod-s12/flv/api/files/videos/2020/09/14/16000704894xia1.mp4
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HISTORY| HD
+http://blackghost.live/play/tlvall-202.php?c=249&f=.m2u8
