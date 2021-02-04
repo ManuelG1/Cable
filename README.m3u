@@ -4,110 +4,110 @@ U#EXTM3U
 
 https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY ID| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID| HD
 http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoveryinvestigacion&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY ID O2| SD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID O2| SD
 http://blackghost.live/play/tlvall-202.php?c=1512&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
 http://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO FAMILY| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO FAMILY| HD
 http://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbofamily&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO FAMILY O2| SD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO FAMILY O2| SD
 http://blackghost.live/play/tlvall-202.php?c=1556&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", FOX FAMILY| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FOX FAMILY| HD
 http://blackghost.live/play/tlvall-202.php?c=235&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO PLUS| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO PLUS| HD
 http://blackghost.live/play/tlvall-202.php?c=1557&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO 2| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO 2| HD
 http://blackghost.live/play/tlvall-202.php?c=1555&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO SIGNATURE| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO SIGNATURE| HD
 http://blackghost.live/play/tlvall-202.php?c=229&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HISTORY| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", HISTORY| HD
 http://blackghost.live/play/tlvall-202.php?c=201&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY THEATER| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY THEATER| HD
 http://blackghost.live/play/tlvall-202.php?c=1551&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", FXM| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FXM| HD
 http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fxm&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", FXM O2| SD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FXM O2| SD
 http://blackghost.live/play/tlvall-202.php?c=177&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", AXN| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", AXN| HD
 http://136.243.177.164/AXN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", AXN O2| SD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", AXN O2| SD
 http://blackghost.live/play/tlvall-202.php?c=140&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", FX| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FX| HD
 http://blackghost.live/play/tlvall-202.php?c=142&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HISTORY 2| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", HISTORY 2| HD
 http://blackghost.live/play/tlvall-202.php?c=1531&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY CIVILIZATION| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY CIVILIZATION| HD
 http://blackghost.live/play/tlvall-202.php?c=1689&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY SCIENCE| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY SCIENCE| HD
 http://blackghost.live/play/tlvall-202.php?c=1519&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", CARTOON NETWORK| HD
+#EXTINF:-1 tvg-logo="H" group-title="INFANTILES", CARTOON NETWORK| HD
 http://blackghost.live/play/tlvall-202.php?c=1468&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY CHANNEL| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY CHANNEL| HD
 http://blackghost.live/play/tlvall-202.php?c=1486&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", H&H| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", H&H| HD
 http://blackghost.live/play/tlvall-202.php?c=199&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DEEJAY TV| HD
+#EXTINF:-1 tvg-logo="H" group-title="MUSICA", DEEJAY TV| HD
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", LOCOMOTION| HD
+#EXTINF:-1 tvg-logo="H" group-title="ANIME", LOCOMOTION| HD
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", ANIMAL PLANET| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", ANIMAL PLANET| HD
 http://blackghost.live/play/tlvall-202.php?c=1513&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", CINEMAX| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", CINEMAX| HD
 http://blackghost.live/play/tlvall-202.php?c=1518&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISCOVERY WORLD| HD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY WORLD| HD
 http://blackghost.live/play/tlvall-202.php?c=186&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISNEY CHANNEL| HD
+#EXTINF:-1 tvg-logo="H" group-title="INFANTILES", DISNEY CHANNEL| HD
 http://blackghost.live/play/tlvall-202.php?c=1488&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", FOX CHANNEL| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FOX CHANNEL| HD
 http://blackghost.live/play/tlvall-202.php?c=1474&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISNEY XD| HD
+#EXTINF:-1 tvg-logo="H" group-title="INFANTILES", DISNEY XD| HD
 http://blackghost.live/play/tlvall-202.php?c=1490&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", AZ CINEMA| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", AZ CINEMA| HD
 http://blackghost.live/play/tlvall-202.php?c=93&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", AZTECA 7| HD
+#EXTINF:-1 tvg-logo="H" group-title="NACIONALES", AZTECA 7| HD
 http://blackghost.live/play/tlvall-202.php?c=1877&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", MVS TV| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", MVS TV| HD
 http://blackghost.live/play/tlvall-202.php?c=129&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", GOLDEN PREMIER| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", GOLDEN PREMIER| HD
 http://blackghost.live/play/tlvall-202.php?c=1704&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", GOLDEN PLUS| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", GOLDEN PLUS| HD
 http://blackghost.live/play/tlvall-202.php?c=1703&f=.m2u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", GOLDEN| HD
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", GOLDEN| HD
 http://blackghost.live/play/tlvall-202.php?c=166&f=.m2u8
