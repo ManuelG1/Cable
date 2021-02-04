@@ -67,5 +67,5 @@ http://blackghost.live/play/tlvall-202.php?c=199&f=.m2u8
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", DEEJAY TV| HD
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="MEXICO", DEEJAY TV| HD
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", KDE TV| HD
 http://207.46.84.143:8080/hls/kanade.m3u8
