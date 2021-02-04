@@ -16,6 +16,9 @@ http://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO FAMILY| HD
 http://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbofamily&f=.m2u8
 
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO FAMILY O2| SD
+http://blackghost.live/play/tlvall-202.php?c=1556&f=.m2u8
+
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", FOX FAMILY| HD
 http://blackghost.live/play/tlvall-202.php?c=235&f=.m2u8
 
