@@ -108,3 +108,6 @@ http://blackghost.live/play/tlvall-202.php?c=1704&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", GOLDEN PLUS| HD
 http://blackghost.live/play/tlvall-202.php?c=1703&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", GOLDEN| HD
+http://blackghost.live/play/tlvall-202.php?c=166&f=.m2u8
