@@ -78,3 +78,6 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", ANIMAL PLANET| HD
 http://blackghost.live/play/tlvall-202.php?c=1513&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", CINEMAX| HD
+http://blackghost.live/play/tlvall-202.php?c=1518&f=.m2u8
