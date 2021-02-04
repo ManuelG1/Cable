@@ -40,6 +40,9 @@ http://blackghost.live/play/tlvall-202.php?c=1551&f=.m2u8
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", FXM| HD
 http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fxm&f=.m2u8
 
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", FXM O2| SD
+http://blackghost.live/play/tlvall-202.php?c=177&f=.m2u8
+
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", AXN| HD
 http://136.243.177.164/AXN/playlist.m3u8
 
