@@ -69,3 +69,6 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", KDE TV| HD
 http://207.46.84.143:8080/hls/kanade.m3u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", LOCOMOTION| HD
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
