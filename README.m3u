@@ -10,26 +10,20 @@ http://nano.zappingtv.com:1935/id/mobile.smil/chunklist_b1628000_sles.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID 02| HD
 http://free1001.free-live.xyz:2052/free10/037/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTA6NDY6MzQgUE0maGFzaF92YWx1ZT00WVBDN2ZGQmZnMTMwWGZub1Y0SSt3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID O3| SD
-http://blackghost.live/play/tlvall-202.php?c=1512&f=.m2u8
-
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
-http://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/087/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NDI6MDQgUE0maGFzaF92YWx1ZT01ajVQaXhQSXp4eEV4bEJ5TFZYRmxnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO FAMILY| HD
 http://free1001.free-live.xyz:2052/free10/088/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6Mjk6MzMgUE0maGFzaF92YWx1ZT1Hd25paHFYTjBYanc1QnJpQVJxS0hnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO FAMILY O2| SD
-http://blackghost.live/play/tlvall-202.php?c=1556&f=.m2u8
-
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FOX FAMILY| HD
-http://blackghost.live/play/tlvall-202.php?c=235&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/078/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NDM6MzIgUE0maGFzaF92YWx1ZT00eUtlYUpoYWpKU2xzdS9UN1dVdWxnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO PLUS| HD
-http://blackghost.live/play/tlvall-202.php?c=1557&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/089/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NDU6MjkgUE0maGFzaF92YWx1ZT1qZ0l5aWMrYzZORFFqYlphTjI1NVd3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO 2| HD
-http://blackghost.live/play/tlvall-202.php?c=1555&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/091/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NDY6NTIgUE0maGFzaF92YWx1ZT1WNkJDN2kxMzc2U3UrdjFHMU5NN0NRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO SIGNATURE| HD
 http://blackghost.live/play/tlvall-202.php?c=229&f=.m2u8
