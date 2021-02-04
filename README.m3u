@@ -102,3 +102,6 @@ http://blackghost.live/play/tlvall-202.php?c=1877&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", MVS TV| HD
 http://blackghost.live/play/tlvall-202.php?c=129&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", GOLDEN PREMIER| HD
+http://blackghost.live/play/tlvall-202.php?c=1704&f=.m2u8
