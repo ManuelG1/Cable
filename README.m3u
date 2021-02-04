@@ -7,10 +7,7 @@ https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID| HD
 http://nano.zappingtv.com:1935/id/mobile.smil/chunklist_b1628000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID 02| HD
-http://free1001.free-live.xyz:2052/free10/037/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID O3| SD
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID O2| SD
 http://blackghost.live/play/tlvall-202.php?c=1512&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
