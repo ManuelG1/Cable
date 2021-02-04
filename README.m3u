@@ -93,3 +93,6 @@ http://blackghost.live/play/tlvall-202.php?c=1474&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MEXICO", DISNEY XD| HD
 http://blackghost.live/play/tlvall-202.php?c=1490&f=.m2u8
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", AZ CINEMA| HD
+http://blackghost.live/play/tlvall-202.php?c=93&f=.m2u8
