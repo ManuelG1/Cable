@@ -26,19 +26,16 @@ http://free1001.free-live.xyz:2052/free10/089/playlist.m3u8?wmsAuthSign=c2VydmVy
 http://free1001.free-live.xyz:2052/free10/091/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NDY6NTIgUE0maGFzaF92YWx1ZT1WNkJDN2kxMzc2U3UrdjFHMU5NN0NRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO SIGNATURE| HD
-http://blackghost.live/play/tlvall-202.php?c=229&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/090/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NTI6NTMgUE0maGFzaF92YWx1ZT0rOER3VWxUN3crbnRtcWNaTDdkZmhBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", HISTORY| HD
-http://blackghost.live/play/tlvall-202.php?c=201&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/031/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NTU6MDUgUE0maGFzaF92YWx1ZT1QeStDcm1LRm52ZGhMTFpOUVY2MVVRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY THEATER| HD
-http://blackghost.live/play/tlvall-202.php?c=1551&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/018/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6NTY6MjIgUE0maGFzaF92YWx1ZT10NnAwcEY5REtoeXBYcHN4dzdEN2hnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FXM| HD
 http://free1001.free-live.xyz:2052/free10/084/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6MDQ6MDUgUE0maGFzaF92YWx1ZT1PN0lkemRUV3I2TXpnMXNHdWFhck5RPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FXM O2| SD
-http://blackghost.live/play/tlvall-202.php?c=177&f=.m2u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", AXN| HD
 http://136.243.177.164/AXN/playlist.m3u8
@@ -47,22 +44,19 @@ http://136.243.177.164/AXN/playlist.m3u8
 http://free1001.free-live.xyz:2052/free10/068/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgMTE6MjM6NTMgUE0maGFzaF92YWx1ZT1ZZVlGV0VsN1kvVm9JUVVZamZlN2ZBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FX| HD
-http://blackghost.live/play/tlvall-202.php?c=142&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/083/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MDE6MzQgQU0maGFzaF92YWx1ZT02cUVLZW42cUNtV2xtUnhMUi8ra2NBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", HISTORY 2| HD
-http://blackghost.live/play/tlvall-202.php?c=1531&f=.m2u8
-
-#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY CIVILIZATION| HD
-http://blackghost.live/play/tlvall-202.php?c=1689&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/059/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MDM6MjcgQU0maGFzaF92YWx1ZT1xNk9qODRHZ2VobFJscDQvUm1CSlJRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY SCIENCE| HD
-http://blackghost.live/play/tlvall-202.php?c=1519&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/017/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MDY6MjkgQU0maGFzaF92YWx1ZT13TEFmM1hkOFRadm9nTTFheFg5M3lBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", CARTOON NETWORK| HD
-http://blackghost.live/play/tlvall-202.php?c=1468&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/137/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MDg6NDAgQU0maGFzaF92YWx1ZT03Y3pDMGZZMnArdC9CTVFIcGFKMWt3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY CHANNEL| HD
-http://blackghost.live/play/tlvall-202.php?c=1486&f=.m2u8
+http://free1001.free-live.xyz:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MTY6MzcgQU0maGFzaF92YWx1ZT1oSlpuQTlrcFdLZ2xyUG1ud2g0Z3R3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", H&H| HD
 http://blackghost.live/play/tlvall-202.php?c=199&f=.m2u8
