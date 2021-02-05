@@ -68,7 +68,7 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", ANIMAL PLANET| HD
-http://free1001.free-live.xyz:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MjU6MjIgQU0maGFzaF92YWx1ZT1HeEMya3hLSmluZjdpT1IwV3dveDlnPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://free1001.free-live.xyz:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgNDozOToxOSBBTSZoYXNoX3ZhbHVlPTVlL0twemFtM3puV3pyeFNQWTh2VkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", CINEMAX| HD
 http://free1001.free-live.xyz:2052/free10/070/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MjY6MjUgQU0maGFzaF92YWx1ZT1yc2ovblRGYmFLNmNZdFB6ZW1LQmV3PT0mdmFsaWRtaW51dGVzPTI0MA==
