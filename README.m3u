@@ -47,7 +47,7 @@ http://free1001.free-live.xyz:2052/free10/068/playlist.m3u8?wmsAuthSign=c2VydmVy
 http://free1001.free-live.xyz:2052/free10/083/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MDE6MzQgQU0maGFzaF92YWx1ZT02cUVLZW42cUNtV2xtUnhMUi8ra2NBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", HISTORY 2| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ypxvs0nyn.m3u8
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ypxvs0nyn.m3u8?s=WTodxCOCsu9vYLI6KG4uAg&e=1612527415
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY SCIENCE| HD
 http://free1001.free-live.xyz:2052/free10/017/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjEgMTI6MDY6MjkgQU0maGFzaF92YWx1ZT13TEFmM1hkOFRadm9nTTFheFg5M3lBPT0mdmFsaWRtaW51dGVzPTI0MA==
