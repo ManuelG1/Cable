@@ -80,7 +80,7 @@ http://nano.zappingtv.com:1935/disney/fxmoviesm.smil/chunklist_b1628000_sles.m3u
 https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/0e733j.m3u8?s=0ggf5tvKWH5r5I3c--eaGw&e=1612528641
 
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", DISNEY XD| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/12dyavowb6wnxh3.m3u8?s=34fhdJcuOgPqi5IwhbSr6g&e=1612529639
+http://nano.zappingtv.com:1935/disneyxd/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", DE PELICULAS| HD
 https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/1zrltg3e.m3u8?s=Xb8djVo3axrurLkt4DZT-g&e=1612532046
