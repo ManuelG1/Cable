@@ -105,3 +105,6 @@ https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="MUSICA", MUSIC TOP| HD
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="H" group-title="24/7", LOS SIMPSON| HD
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudserver/playlist.m3u8
