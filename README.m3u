@@ -112,3 +112,6 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", EL CHAVO DEL 8| HD
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="H" group-title="INFANTILES", TOONCAST| HD
+http://nano.zappingtv.com:1935/tooncast/cnnes.smil/chunklist_b2128000_sles.m3u8
