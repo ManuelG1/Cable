@@ -71,7 +71,7 @@ http://nano.zappingtv.com:1935/discovery/world.smil/chunklist_b3828000_sles.m3u8
 http://nano.zappingtv.com:1935/disney/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FOX CHANNEL| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/0e733j.m3u8?s=0ggf5tvKWH5r5I3c--eaGw&e=1612528641
+http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", DISNEY XD| HD
 http://nano.zappingtv.com:1935/disneyxd/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
