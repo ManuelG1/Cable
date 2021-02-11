@@ -129,3 +129,6 @@ http://nano.zappingtv.com:1935/espnplus/fsmobbile.smil/chunklist_b1628000_sles.m
 
 #EXTINF:-1 tvg-logo="H" group-title="DEPORTES", FOX SPORTS| HD
 http://nano.zappingtv.com:1935/foxsportsb/espn.smil/chunklist_b728000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", FOOD NETWORK| HD
+http://nano.zappingtv.com:1935/foodnetwork/default.smil/chunklist_b1628000_sles.m3u8
