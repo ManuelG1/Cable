@@ -29,7 +29,7 @@ https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/g05mnm.m3u8?s=tcbA6p2agUJIIZxi0MlL
 https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=C53Ujkn50E8qwR8QmfpKTQ&e=1612527014
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY THEATER| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/pbvl9d3hcvei.m3u8?s=Be5TL8ToeDVwsaHG7X_ktA&e=1612530664
+http://nano.zappingtv.com:1935/theater/live2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", AXN| HD
 http://136.243.177.164/AXN/playlist.m3u8
