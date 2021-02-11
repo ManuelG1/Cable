@@ -122,7 +122,7 @@ http://nano.zappingtv.com:1935/turbo/world.smil/chunklist_b3828000_sles.m3u8
 http://nano.zappingtv.com:1935/ng/ng.smil/chunklist_b3628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="DEPORTES", ESPN EXTRA| HD
-http://nano.zappingtv.com:1935/espnplus/fsmobbile.smil/chunklist_b1628000_sles.m3u8
+http://nano.zappingtv.com:1935/espnplus/fsmobile.smil/chunklist_b1628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="DEPORTES", FOX SPORTS| HD
 http://nano.zappingtv.com:1935/foxsportsb/espn.smil/chunklist_b728000_sles.m3u8
