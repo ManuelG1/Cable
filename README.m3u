@@ -41,7 +41,7 @@ https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/l051rl.m3u8?s=-VPRF4Ey2c2XoWkP2Ohc
 https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ypxvs0nyn.m3u8?s=WTodxCOCsu9vYLI6KG4uAg&e=1612527415
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY SCIENCE| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/5l6qgxmom.m3u8?s=tsOUs1lz8MPKqUZxy9Bxdw&e=1612530421
+http://nano.zappingtv.com:1935/science/live2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", CARTOON NETWORK| HD
 http://nano.zappingtv.com:1935/cn/world.smil/chunklist_b3828000_sles.m3u8
@@ -102,7 +102,6 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", LOS SIMPSON| HD
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", EL CHAVO DEL 8| HD
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
