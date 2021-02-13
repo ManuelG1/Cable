@@ -119,7 +119,7 @@ http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=62&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=2379&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", NATGEO| HD
-http://nano.zappingtv.com:1935/ng/ng.smil/chunklist_b3628000_sles.m3u8
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=91&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="DEPORTES", ESPN EXTRA| HD
 http://nano.zappingtv.com:1935/espnplus/fsmobile.smil/chunklist_b1628000_sles.m3u8
