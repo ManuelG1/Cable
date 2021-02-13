@@ -7,23 +7,23 @@ https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID| HD
 http://nano.zappingtv.com:1935/id/mobile.smil/chunklist_b1628000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=gtkO1esbwNip4JwNkaKDNg&e=1612527244
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", UNIVERSAL| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=207&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO FAMILY| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/mfobze65eqg.m3u8?s=Xq948_HfWHXdSinwLbVCeg&e=1612523359
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", WARNER TV| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=205&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FOX FAMILY| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/goks9npik9.m3u8?s=mIiMrk-5VB41CcX9hZGSgA&e=1612531315
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", SYFY| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=59&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO PLUS| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/3dgzjbpy.m3u8?s=bJmNjHFi9XKhQAsbJRGIuQ&e=1612531810
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", E!| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=55&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO 2| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/x5r58d0omlmqph.m3u8?s=Vgew5UtchqC1lWjr-B_GaA&e=1612531423
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", PARAMOUNT CHANNEL| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=1726&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO SIGNATURE| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/g05mnm.m3u8?s=tcbA6p2agUJIIZxi0MlLbQ&e=1612531874
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", SPACE| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=129&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", HISTORY| HD
 http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=89&p=3&k=srregio&f=.m3u8
@@ -73,8 +73,8 @@ http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=201&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", DISNEY XD| HD
 http://nano.zappingtv.com:1935/disneyxd/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", DE PELICULAS| HD
-http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=335&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", DE PELICULAS +| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=121&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="NACIONALES", AZTECA 7| HD
 http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=322&p=3&k=srregio&f=.m3u8
