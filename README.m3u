@@ -104,13 +104,10 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 http://nano.zappingtv.com:1935/tooncast/cnnes.smil/chunklist_b2128000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FX| HD
-http://nano.zappingtv.com:1935/fx/fx.smil/chunklist_b3628000_sles.m3u8
-
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FXM (MEX)| HD
-http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=138&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=60&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FXM| HD
-http://nano.zappingtv.com:1935/fxmovies/live2/chunklist.m3u8
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=138&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", A&E| HD
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMTElMkYqJmV4cGlyeT0xNjEzMDMzNTk2JmZuPXNoYTI1NiZ4JTNBcz15cHdkaXd3OHljdThjcTAsMmUwNzgxYmY5NTYxOTlkYWEwNjljYzcyYWQyMWRiNDY0YmNmMmNjYTA5ZGJkYmQzMTQ2M2IwMjBkMzU0NTRhYg==/PROFILE03.m3u8
