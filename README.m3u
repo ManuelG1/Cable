@@ -68,7 +68,7 @@ http://nano.zappingtv.com:1935/discovery/world.smil/chunklist_b3828000_sles.m3u8
 http://nano.zappingtv.com:1935/disney/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FOX CHANNEL| HD
-http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=46&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=201&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", DISNEY XD| HD
 http://nano.zappingtv.com:1935/disneyxd/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
