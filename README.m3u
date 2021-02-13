@@ -56,7 +56,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 http://nano.zappingtv.com:1935/animalplanet/mobile.smil/chunklist_b1628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", CINEMAX| HD
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ztv7sh.m3u8?s=H_qJWUbinaL0KnQIEQ7vIw&e=1612531541
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=158&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY WORLD| HD
 http://nano.zappingtv.com:1935/discovery/world.smil/chunklist_b3828000_sles.m3u8
