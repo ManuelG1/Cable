@@ -55,8 +55,8 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="ANIME", BIT ME| HD
 http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", ANIMAL PLANET| HD
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/9d4793640a395dfa20193243b30e18dcbcde4081/05dd1671dc56bab7d98fdfb43467d83155a4b928/1003_19.m3u8
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", NATGEO WILD| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=92&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", CINEMAX| HD
 http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=158&p=3&k=srregio&f=.m3u8
