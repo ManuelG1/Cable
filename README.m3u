@@ -7,9 +7,6 @@ https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID| HD
 http://nano.zappingtv.com:1935/id/mobile.smil/chunklist_b1628000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=207_&f=.m3u8
-
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", UNIVERSAL| HD
 http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=207&p=3&k=srregio&f=.m3u8
 
