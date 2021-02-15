@@ -28,6 +28,9 @@ http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=129&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", HISTORY| HD
 http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=89&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1 tvg-logo="H" group-title="NOVELAS", TLNOVELAS| HD
+http://ipeteve.com/php/REGIO_PLAY120220/tp.php?c=83&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY THEATER| HD
 http://nano.zappingtv.com:1935/theater/live2/chunklist.m3u8
 
