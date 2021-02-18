@@ -91,6 +91,9 @@ http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="NACIONALES", NU9VE| HD
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=1783&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1 tvg-logo="H" group-title="NACIONALES", LAS ESTRELLAS| HD
+http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", SONY CHANNEL| HD
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=48&p=3&k=srregio&f=.m3u8
 
