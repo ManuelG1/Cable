@@ -73,6 +73,9 @@ http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=101&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", DISNEY CHANNEL| HD
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=113&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1 tvg-logo="H" group-title="INFANTILES", BOOMERANG| HD
+http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=115&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", FOX CHANNEL| HD
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=201&p=3&k=srregio&f=.m3u8
 
