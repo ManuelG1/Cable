@@ -5,7 +5,10 @@
 https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY ID| HD
-http://nano.zappingtv.com:1935/id/mobile.smil/chunklist_b1628000_sles.m3u8
+http://5.9.30.198:2086/deregresom3uderegresom3uderegresom3uderegresom3uderegresom3uderegresom3uderegresom3u/prueba1deregrwedssdwsdsdDCesom3uderegresom3uderegresom3uderegresom3uderegresom3uderegresom3u/321
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURALES", ANIMAL PLANET| HD
+http://5.9.30.198:2086/deregresom3uderegresom3uderegresom3uderegresom3uderegresom3uderegresom3uderegresom3u/prueba1deregrwedssdwsdsdDCesom3uderegresom3uderegresom3uderegresom3uderegresom3uderegresom3u/259
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", UNIVERSAL| HD
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=207&p=3&k=srregio&f=.m3u8
@@ -135,15 +138,6 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", EL CHAVO DEL 8| HD
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="H" group-title="24/7", LA ROSA DE GUADALUPE| HD
-http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/46
-
-#EXTINF:-1 tvg-logo="H" group-title="24/7", SHARK TANK| HD
-http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/65
-
-#EXTINF:-1 tvg-logo="H" group-title="24/7", SHARK TANK 2| HD
-http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/66
 
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", TOONCAST| HD
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=108&p=3&k=srregio&f=.m3u8
