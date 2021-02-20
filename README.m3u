@@ -35,7 +35,7 @@ http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=89&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=83&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY THEATER| HD
-http://nano.zappingtv.com:1935/theater/live2/chunklist.m3u8
+http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=95&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", AXN| HD
 http://136.243.177.164/AXN/playlist.m3u8
@@ -44,7 +44,7 @@ http://136.243.177.164/AXN/playlist.m3u8
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=64&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DISCOVERY SCIENCE| HD
-http://nano.zappingtv.com:1935/science/live2/chunklist.m3u8
+http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=98&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", CARTOON NETWORK| HD
 http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=112&p=3&k=srregio&f=.m3u8
