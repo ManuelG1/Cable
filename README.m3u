@@ -22,6 +22,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", WARNER TV| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=205&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", DE PELICULAS| HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=335&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", SYFY| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=59&format=HLSAD&f=.m3u8
 
