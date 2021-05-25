@@ -19,8 +19,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", UNIVERSAL| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=207&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
-http://iptvhd.club:8081/televall2021/558_.m3u8?token=hx_Zm1M1RehcffGmljRN-w&expires=1620882820
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS", Power Rangers 2017| HD
+http://tvpremiumhd.club/lista-gratuita/213524/on/vod.php?cid=CA63AD3CB3AADDC9&resid=CA63AD3CB3AADDC9%21106&authkey=AFNCxHemIUWsqzw
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", WARNER TV| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=205&format=HLSAD&f=.m3u8
