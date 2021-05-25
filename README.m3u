@@ -19,15 +19,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", UNIVERSAL| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=207&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS", Power Rangers 2017| HD
-http://tvpremiumhd.club/lista-gratuita/213524/on/vod.php?cid=CA63AD3CB3AADDC9&resid=CA63AD3CB3AADDC9%21106&authkey=AFNCxHemIUWsqzw
-
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS", Peter Rabbit 2018| HD
-http://tvpremiumhd.club/lista-gratuita/213524/on/vod.php?cid=E638A418A4637030&resid=E638A418A4637030%21108&authkey=AG230iO9C7WhVyA
-
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS", ESDLA Las 2 Torres| HD
-http://tvpremiumhd.club/lista-gratuita/213524/on/vod.php?cid=BEE303E583CADC61&resid=BEE303E583CADC61%21106&authkey=AK1K1arwGmL5wv8
-
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", WARNER TV| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=205&format=HLSAD&f=.m3u8
 
