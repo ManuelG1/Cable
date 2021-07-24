@@ -160,6 +160,9 @@ http://gratuita.mrzutv.net:8080/manuelgg/guyg3vcAdH/327
 #EXTINF:-1 tvg-logo="H" group-title="24/7", ESTRENOS| HD
 http://gratuita.mrzutv.net:8080/manuelgg/guyg3vcAdH/350
 
+#EXTINF:-1 tvg-logo="H" group-title="24/7", DINOSAURIOS| HD
+http://gratuita.mrzutv.net:8080/manuelgg/guyg3vcAdH/344
+
 #EXTINF:-1 tvg-logo="H" group-title="INFANTILES", TOONCAST| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=108&format=HLSAD&f=.m3u8
 
