@@ -187,6 +187,9 @@ http://nano.zappingtv.com:1935/espnplus/fsmobile.smil/chunklist_b1628000_sles.m3
 #EXTINF:-1 tvg-logo="H" group-title="DEPORTES", TUDN| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1049&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo="H" group-title="DEPORTES", CLARO SPORTS| HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2564&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", FOOD NETWORK| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2145&format=HLSAD&f=.m3u8
 
