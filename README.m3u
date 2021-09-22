@@ -76,6 +76,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5x
 #EXTINF:-1 tvg-logo="H" group-title="ANIME", LOCOMOTION| HD
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-logo="H" group-title="ANIME", ANIME ZONE TV| HD
+http://azxtv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", NATGEO WILD| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=92&format=HLSAD&f=.m3u8
 
