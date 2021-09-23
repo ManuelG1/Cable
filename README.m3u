@@ -14,7 +14,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5x
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURALES", DW| HD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=203&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", UNIVERSAL| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=207&format=HLSAD&f=.m3u8
