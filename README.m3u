@@ -152,7 +152,7 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w748888302.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", ALF| HD
-https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/128_.m3u8
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/128_.m3u8?token=SgVKIAmPu2uSrFoUV4jRkA&expires=1632536192&ip=189.150.96.192
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", EL CHAVO DEL 8| HD
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
