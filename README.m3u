@@ -32,7 +32,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243i
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=55&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
-https://vsd74.mycdn.me/hls/1509539842631.m3u8
+https://vsd74.mycdn.me/hls/1509539842631.m3u8/sig/qABS6A7z3hU/expires/1632743283142/srcIp/189.150.47.22/urls/45.136.22.56/clientType/0/srcAg/CHROME_ANDROID/mid/4514059460167/video.m3u8?p
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", PARAMOUNT CHANNEL| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=1726&format=HLSAD&f=.m3u8
