@@ -31,8 +31,17 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=var236s
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", E!| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=var236studtcw6n&lchId=55&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
-https://vsd74.mycdn.me/hls/1509539842631.m3u8/sig/qABS6A7z3hU/expires/1632743283142/srcIp/189.150.47.22/urls/45.136.22.56/clientType/0/srcAg/CHROME_ANDROID/mid/4514059460167/video.m3u8?p
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", Star Action| HD
+https://edge1.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", Star Action| HD
+
+
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", Star Action| HD
+
+
+#EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", Star Action| HD
+
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", PARAMOUNT CHANNEL| HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=var236studtcw6n&lchId=1726&format=HLSAD&f=.m3u8
