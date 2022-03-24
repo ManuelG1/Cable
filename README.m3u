@@ -185,7 +185,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=hkc
 https://cloudtv.provideo.es/live/canalcoin-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO| HD
-https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_678000=10000.m3u8
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-mp4a_144800_spa=20001/HBOHD-avc1_678000=10000.m3u8
 https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:-1 tvg-logo="H" group-title="PELICULAS Y SERIES", HBO2| HD
