@@ -4,8 +4,8 @@
 
 https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 
-#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", LAS ESTRELLAS| HD
-http://23.237.202.74:7283/ck1op1vecgf4w88pmr7c6cfx523lbegskuckllpbqd8ho/index.m3u8?un=MMJ887&tm=1662256351&sn=D6bGpWrFsPXzw8Rv657uaWc61Rp
+#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", EL CANAL DE LAS ESTRELLAS| HD
+http://23.237.202.74:7283/nfp463lowr9w3eass8yrxsw33mq0guirdg6xd8xwyel69uej8jifvjt1bd0605252i58/index.m3u8?un=MMJ887&tm=1662295670&sn=Gsv7r4gBCY25fb0eM3dQ43X20tE
 
 #EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", IMAGEN TV| HD
 http://23.237.202.74:7283/c1mtbsbzxgek0q0w6xa4eqhimcy5ymhw8i2dle003zbue/index.m3u8?un=MMJ887&tm=1662256351&sn=a1dC5M2ihFbffmDQZ9tRvCmgsWt
@@ -16,9 +16,59 @@ http://23.237.202.74:7283/2a575ih552z77c01w7lelbom7ulvysqsqvpuqvy1fw1gg/index.m3
 #EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", AZTECA 7| HD
 http://23.237.202.74:7283/4suunir7tnba1b2c54fd6hcflh0vto7ybm27oilw2pllq/index.m3u8?un=MMJ887&tm=1662256351&sn=HjywpbG26oYhWs4Lt1VVk4JcqyZ
 
-#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", LAS ESTRELLAS| HD
+#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", AZTECA 1| HD
+http://23.237.202.74:7283/924iiyjxfgerum53214eimsd252frclmpeax7aovwgwf7/index.m3u8?un=MMJ887&tm=1662294376&sn=8bXdKhwacjNe2s1hJGn0bv5HnTS
 
-#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", LAS ESTRELLAS| HD
+#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", A+| HD
+http://23.237.202.74:7283/4w8nn2vram3qgiu8zsr7faonqpg6efjns9z39p5h3f/index.m3u8?un=MMJ887&tm=1662294376&sn=1bF8M5Ni4jC2nmIv62vlwIczmpj
+
+#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", GALAVISION 1| HD
+http://23.237.202.74:7283/jdy43qglod9c0lbq60c0lzboc7ros3udgeobmerldn9ft/index.m3u8?un=MMJ887&tm=1662294376&sn=9WG9NXp1dEtJ8ZZqLvCj7fD16Hx
+
+#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", GALAVISION 2| HD
+http://23.237.202.74:7283/pyv4jm7x5hpk0kdrbtt1zebno9kv3iai5kf7wja1pyix/index.m3u8?un=MMJ887&tm=1662295014&sn=4z6ScWVk4JMhVySYQkVRbTlE5oM
+
+#EXTINF:-1 tvg-logo="H" group-title="TV ABIERTA", CANAL ONCE| HD
+http://23.237.202.74:7283/2jc4folmdjkqywzzoikc3hqa2ooe951rs7n1c5sa27ruxdwn668au2x6z1ug2/index.m3u8?un=MMJ887&tm=1662295014&sn=EkPA2uYeppx83ePzTEoAGhQylng
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", GOLDEN PLUS| HD
+http://23.237.202.74:7283/jgugz74xnrdotpje3wiui7snrunfzzyprkqcmuzi0qy66926p109/index.m3u8?un=MMJ887&tm=1662295014&sn=KVoc1MR2byDAlwvPxAMK0Es3Zvr
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", HBO FAMILY| HD
+http://23.237.202.74:7283/1t8yykdsptzy4wx4k5fkim058jgv2a2lpc1kvilm3hobrbjhrr38fjkr70/index.m3u8?un=MMJ887&tm=1662295014&sn=GDwzr3Nh9ORFJUpxAH3XZe9VRSj
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", UNIVERSAL CINEMA| HD
+http://23.237.202.74:7283/4sxxz8ctesztlps1ui5sy5uflpk54hqgbk1pv5hkxol5jnxqjpbgqnxg/index.m3u8?un=MMJ887&tm=1662295014&sn=D3hSO2Vg37DhnYXFV9IdZmEohex
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", CINEMAX| HD
+http://23.237.202.74:7283/a7a9ha2sv4psh2ybwacfjtr4wc7t0rj2ye977yf6cgvhd/index.m3u8?un=MMJ887&tm=1662296344&sn=UFMNBR5pSGBou7gHqqCCyMB5Xop
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", GOLDEN| HD
+http://23.237.202.74:7283/6db5d4yrlsx5bwsdp3upakgxy9sjm8ujsvuj4q54dbj4fg8cd7/index.m3u8?un=MMJ887&tm=1662295670&sn=3QEnwwtd8AsnWojrfjr46NiBw0Y
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", DHE| HD
+http://23.237.202.74:7283/407345vefkj4e67jq1jok7kd3bz7743sxipwmdbbiosmnzm/index.m3u8?un=MMJ887&tm=1662295670&sn=M2X8zAM7wXztFxwlUk53NA2vA94
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", SHOWTIME| HD
+http://23.237.202.74:7283/59ei9ikj03g5xn8ruyh9o8otm9mia0ozanjsi1gccn90s5qwa5hwq/index.m3u8?un=MMJ887&tm=1662295670&sn=GEPctYidEBDSbUDJ469nHKwI3VG
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", ZEE MUNDO| HD
+http://23.237.202.74:7283/5smfxj1cee6f043hheqbfczoqxcv6q7kagm62u0h73tsgpls0rpdvp21yjeeq1c9lmsp45/index.m3u8?un=MMJ887&tm=1662295670&sn=7sKABIwt9ZHKVN7E4ZWuU28Dkpi
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", COMEDY CENTRAL| HD
+http://23.237.202.74:7283/4f921kw7eyujn741ilrfsrgtqbzne72pbevxix1wd1nk4rbrwybrxna24glxzq/index.m3u8?un=MMJ887&tm=1662296344&sn=GPbVS4A0L2pZJVoxjlNs5GLYMCT
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", DISTRITO COMEDIA| HD
+http://23.237.202.74:7283/d3x1pfsbk44sll0oog47z7ci0d8stgalncufxohsxkrnsy6elaq6ar9fdwrcnwzm/index.m3u8?un=MMJ887&tm=1662296344&sn=4KFyV8O30kL82bqye1E5RSenYk7
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", DE PELICULAS PLUS| HD
+http://23.237.202.74:7283/5fhoa7n8qkip2gbzrpviu9qipm6ef35qcqkvqsjtwwvirqgsvw1ztswzef69q1amn3e/index.m3u8?un=MMJ887&tm=1662296344&sn=5N3tBlmYEsBawChDLLiTmQkZEhe
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", SONY CHANNEL| HD
+http://23.237.202.74:7283/4bikct6quradqgyt80twc3vf8mztdcek14jvnbuaicbux/index.m3u8?un=MMJ887&tm=1662297089&sn=HjlcSuZ3iEzCpVRSfareTl865qn
+
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", WARNER TV| HD
+http://23.237.202.74:7283/27dody5bvvctu6b5tglydoyh9h94skoh77mx4f8mey1oanv/index.m3u8?un=MMJ887&tm=1662297089&sn=T816UmNOL5zyWFh8VPrnqfRaP06
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", PEDRO INFANTE| HD
 http://23.237.202.74:7283/10rx9qbytq55vymna91qx7nhu4ssdwjl3vpqla3mr2m8rx938lx6276vzljgfv4a/index.m3u8?un=MMJ887&tm=1662244739&sn=Oz0vmnpwp5CGEQwrkJCJtvEYnE1
