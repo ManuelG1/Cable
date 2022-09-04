@@ -61,8 +61,8 @@ http://23.237.202.74:7283/4f921kw7eyujn741ilrfsrgtqbzne72pbevxix1wd1nk4rbrwybrxn
 #EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", DISTRITO COMEDIA| HD
 http://23.237.202.74:7283/d3x1pfsbk44sll0oog47z7ci0d8stgalncufxohsxkrnsy6elaq6ar9fdwrcnwzm/index.m3u8?un=MMJ887&tm=1662296344&sn=4KFyV8O30kL82bqye1E5RSenYk7
 
-#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", DE PELICULAS PLUS| HD
-http://23.237.202.74:7283/5fhoa7n8qkip2gbzrpviu9qipm6ef35qcqkvqsjtwwvirqgsvw1ztswzef69q1amn3e/index.m3u8?un=MMJ887&tm=1662296344&sn=5N3tBlmYEsBawChDLLiTmQkZEhe
+#EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", DE PELICULA PLUS| HD
+http://23.237.202.74:7283/mn1nx56c6kd51tqzylpv2cql61dk0azlovou8mr3ibd61/index.m3u8?un=MMJ887&tm=1662298100&sn=2oKCap0f46vYOQQXOKKBmvRRuEU
 
 #EXTINF:-1 tvg-logo="H" group-title="CINE Y SERIES", SONY CHANNEL| HD
 http://23.237.202.74:7283/4bikct6quradqgyt80twc3vf8mztdcek14jvnbuaicbux/index.m3u8?un=MMJ887&tm=1662297089&sn=HjlcSuZ3iEzCpVRSfareTl865qn
@@ -159,3 +159,21 @@ http://23.237.202.74:7283/lielcikevier7kygkdur58s30bjxysxyig6h3on5ddnh3/index.m3
 
 #EXTINF:-1 tvg-logo="H" group-title="CULTURA", DISCOVERY ID| HD
 http://23.237.202.74:7283/3jrqnves3mrmpuojmhraihbizwvk8vr8labtr7rw6onik/index.m3u8?un=MMJ887&tm=1662253624&sn=31XvE0fkJyPyYzIiokrnxVdBLLU
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURA", ANIMAL PLANET| HD
+http://23.237.202.74:7283/blm6hxp1b7lq0m5v1jy8pj89z6aopxftr7fk3lbirrxem/index.m3u8?un=MMJ887&tm=1662298100&sn=IeohZB1GyNDDXdZQ9lonvRRNoM3
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURA", DISCOVERY H&H| HD
+http://23.237.202.74:7283/g0g8cdpefs5irinyfymph3wobnt9hrk1ns1nkalp8l81bpbz3a1shb/index.m3u8?un=MMJ887&tm=1662298100&sn=Y73QyBNePDlBSOAwwlJmBk01oN4
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURA", DISCOVERY FAMILY| HD
+http://23.237.202.74:7283/rbyjvn2dru31xxk9lllkhkg6vdj3oiwr4sluucdvzh0nj3uafh519dexxq72/index.m3u8?un=MMJ887&tm=1662298705&sn=5bUK2pXhtKAB6IWSA8tH5gr5Ico
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURA", HISTORY| HD
+http://23.237.202.74:7283/hya9tuwtbpnsk8hpuihgsxn3k449qrhkcmi3igoitefe/index.m3u8?un=MMJ887&tm=1662298705&sn=ZpeqEBAWRQbkeYwFdEjTtvgVkmS
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURA", EL GOURMET| HD
+http://23.237.202.74:7283/4jzgvw6hpkcgoahe88udfbc7jskbduzx0lgfuw2g5y45c/index.m3u8?un=MMJ887&tm=1662298705&sn=8elLD4DcMu0a4V3o4KJAPRZJeMb
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURA", NAT GEO WILD| HD
+http://23.237.202.74:7283/esg706kyzcti2dxfvxp89i2d9dr7ei69b7sjsoy9x4swi/index.m3u8?un=MMJ887&tm=1662298705&sn=5FmPa32tIAOMqmCdf5i4kcTmvB3
