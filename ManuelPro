@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1,*LISTA DE MGO | (•̀ᴗ•́)و
+#EXTINF:-1,*LISTA DE MGO PRO| (•̀ᴗ•́)و
 
 https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 
@@ -60,3 +60,36 @@ http://23.237.202.74:7283/jkzbydo71h7361umqvw4u1hmu3aeaw35d7evhfx3grcuz8as2kw4ge
 
 #EXTINF:-1 tvg-logo="H" group-title="24/7", PELIS DEL VIEJO OESTE| HD
 http://23.237.202.74:7283/6e83hnngi09ikbyy941myili7gqe10ok5ab3o7qlodoa7tcitwwdt4v5m6o7o84pnt1/index.m3u8?un=MMJ887&tm=1662247240&sn=YN47OCmsESitgEh4rtSnrEasQNA
+
+#EXTINF:-1 tvg-logo="H" group-title="24/7", TOM Y JERRY| HD
+http://23.237.202.74:7283/cno61ox6vn3xkvx1v7xjnxar3vzkz9ddrtl5bo0358gehyx49g60p0lfhtflid/index.m3u8?un=MMJ887&tm=1662252273&sn=RUkLcL1YSndomuLqltfV5Wsi8qr
+
+#EXTINF:-1 tvg-logo="H" group-title="24/7", LOS PITUFOS| HD
+http://23.237.202.74:7283/ocl1uig2wyyutw2oevk9tkykgtb4jonjulshzviantj9ql3mnk5x77p35/index.m3u8?un=MMJ887&tm=1662252273&sn=T1yF5McgWghOJqHZF07kedzHT9r
+
+#EXTINF:-1 tvg-logo="H" group-title="24/7", CÁMARAS ESCONDIDAS| HD
+http://23.237.202.74:7283/67bam7ru0x888nsn7i1x9qmx9lisptqwc7h1jev29mklgk5eyjtrccsdah03haroy2wgx6lefja5fwn/index.m3u8?un=MMJ887&tm=1662252273&sn=K2CLG3NEsDxOHiuSpnqmF4MgMvE
+
+#EXTINF:-1 tvg-logo="H" group-title="24/7", CLÁSICA TV| HD
+http://23.237.202.74:7283/5cdy4co6rh8rkl3ex3pnzuyervpn3lwbmwr19sb3elx2w1p3nikobej8vad/index.m3u8?un=MMJ887&tm=1662252273&sn=Y7zBpg2ceBUDsk2k17Mgzq0zvMg
+
+#EXTINF:-1 tvg-logo="H" group-title="INFANTIL", BIT ME| HD
+http://23.237.202.74:7283/hdkjtqm6us1j9x64i9fky7s964lbr1qs6xqoejs7tln/index.m3u8?un=MMJ887&tm=1662252273&sn=ViwtPhpnZuRh0Aa0vn0aaYPRWnF
+
+#EXTINF:-1 tvg-logo="H" group-title="INFANTIL", CARTOON NETWORK| HD
+http://23.237.202.74:7283/31y7vtnfb3lfic0a46p9w9vywxu5e5qfnn06tpgjioakdsil8him9rt4yf53xpt8/index.m3u8?un=MMJ887&tm=1662252955&sn=XBAwJmDXnoJnrwBbtaxrm2DGTtv
+
+#EXTINF:-1 tvg-logo="H" group-title="INFANTIL", CARTOONITO| HD
+http://23.237.202.74:7283/9t19xl3m3a470qzglta8wbwaxb4lsli9j16rh3qzefg6b/index.m3u8?un=MMJ887&tm=1662252955&sn=2EyCMqX8q62eqRe7vPgKSX29dyx
+
+#EXTINF:-1 tvg-logo="H" group-title="INFANTIL", ULTRA-KIDS| HD
+http://23.237.202.74:7283/rsv7n3q6u4q7qtz8rdsuep11pg3i3w83dzh0i7knghibhsralumglzt/index.m3u8?un=MMJ887&tm=1662252955&sn=GBdvWkL9QtMy8yMGylYFuEvBACu
+
+#EXTINF:-1 tvg-logo="H" group-title="INFANTIL", TOONCAST| HD
+http://23.237.202.74:7283/256a9y4m7tat7l1m3ceajtxau9zupz6q7fqpv6gynqubknn/index.m3u8?un=MMJ887&tm=1662252955&sn=EFzyjqBT9PA17oZRbM1JXKWgZf7
+
+#EXTINF:-1 tvg-logo="H" group-title="INFANTIL", NICK JUNIOR| HD
+http://23.237.202.74:7283/lielcikevier7kygkdur58s30bjxysxyig6h3on5ddnh3/index.m3u8?un=MMJ887&tm=1662252955&sn=YkJotCJDwhwXjJffKKuNFpcKdJP
+
+#EXTINF:-1 tvg-logo="H" group-title="CULTURA", DISCOVERY ID| HD
+http://23.237.202.74:7283/3jrqnves3mrmpuojmhraihbizwvk8vr8labtr7rw6onik/index.m3u8?un=MMJ887&tm=1662253624&sn=31XvE0fkJyPyYzIiokrnxVdBLLU
